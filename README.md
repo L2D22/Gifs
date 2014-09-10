@@ -1,4 +1,4 @@
 Gifs
 ====
 
-Interactive gifs 
+Hover over the homemade gifs to interact.
